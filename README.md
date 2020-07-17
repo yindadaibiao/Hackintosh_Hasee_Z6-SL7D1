@@ -16,6 +16,8 @@
 - 声卡:外放正常,耳机系统能检测插入,但是没声音应该是我电脑的问题,win10下也不行,应该是正常驱动的,自测.
 - 触摸板:正常,手势多指不完美.
 - 网卡:有线正常,无线无解.
+# 更新记录
+- 2020/07/18 CPU风扇不工作,发热严重.更新FakeSMC.kext/FakeSMC_SMMSensors.kext/FakeSMC_LPCSensors.kext/FakeSMC_GPUSensors.kext/FakeSMC_CPUSensors.kext/FakeSMC_ACPISensors.kext
 # 系统截图
 ![Image text](https://github.com/yindadaibiao/Hackintosh_Hasee_Z6-SL7D1/blob/master/img/%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4.png) <br>
 ![Image text](https://github.com/yindadaibiao/Hackintosh_Hasee_Z6-SL7D1/blob/master/img/%E6%89%AC%E5%A3%B0%E5%99%A8.png) <br>
